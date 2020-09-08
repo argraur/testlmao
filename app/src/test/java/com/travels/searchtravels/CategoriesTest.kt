@@ -58,42 +58,49 @@ class CategoriesTest {
     @Test
     fun snowTest() {
         visionApiUtil.findLocation(getImage(snow), "")
+        // Validate that visionapi detected image as snow
         verify(listener).onErrorPlace("snow")
     }
 
     @Test
     fun mountainTest() {
         visionApiUtil.findLocation(getImage(mountain), "")
+        // Validate that visionapi detected image as mountain
         verify(listener).onErrorPlace("mountain")
     }
 
     @Test
     fun seaTest() {
         visionApiUtil.findLocation(getImage(sea), "")
+        // Validate that visionapi detected image as sea
         verify(listener).onErrorPlace("sea")
     }
 
     @Test
     fun oceanTest() {
         visionApiUtil.findLocation(getImage(ocean), "")
+        // Validate that visionapi detected image as ocean
         verify(listener).onErrorPlace("ocean")
     }
 
     @Test
     fun beachTest() {
         visionApiUtil.findLocation(getImage(beach), "")
+        // Validate that visionapi detected image as beach
         verify(listener).onErrorPlace("beach")
     }
 
     @Test
     fun otherTest() {
         visionApiUtil.findLocation(getImage(other), "")
+        // Validate that visionapi didn't find any location or categories
         verify(listener).onError()
     }
 
     @Test
     fun locationTest() {
         visionApiUtil.findLocation(getImage(tokyo), "")
+        // Validate that visionapi detected location and provided expected coordinates
         verify(listener).onSuccess(LatLng().setLatitude(35.66031160000001).setLongitude(139.72900629999998))
     }
 }
