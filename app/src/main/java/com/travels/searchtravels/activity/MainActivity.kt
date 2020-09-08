@@ -189,7 +189,7 @@ class MainActivity : AppCompatActivity() {
                 )
                 Constants.PICKED_BITMAP = bitmap
                 VisionApi.findLocation(
-                    bitmap,
+                    ImageHelper.getBase64EncodedJpeg(bitmap),
                     null,
                     object : OnVisionApiListener {
 
