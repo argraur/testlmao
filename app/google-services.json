@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781246175207",
+    "firebase_url": "https://vezdekod-2.firebaseio.com",
+    "project_id": "vezdekod-2",
+    "storage_bucket": "vezdekod-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781246175207:android:869042d1e7f31cbc910f42",
+        "android_client_info": {
+          "package_name": "com.preview.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781246175207-davp51b2c3trm2asap1f9tjd2mn8qap8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIfOBbn19bEfVBvBqKEmYAj1OBdPS00o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781246175207-davp51b2c3trm2asap1f9tjd2mn8qap8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

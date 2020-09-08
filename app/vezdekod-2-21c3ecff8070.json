@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hybrid-poetry-281521",
+  "private_key_id": "cdd27bea54b8ffe47d017765158d779196d21724",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeA5kdkoH1Xhff\nkKFj5Yl6i0oQG5aDhvQtYFjX/z1PjcH/2S6N/COMkISEEuiWSfaApAX7SlxVrpSe\nbeEj5pMJPweMFWBV3cpAv0Kjq3VC8XdowCBxFyn3UR/lqk8z9kb/85Uoc1GfVttq\nAlk6gnT84IdsO+x66p0IwTY+evMe9qcCgxkyIryLtg6JlCXtNKlafd5DFVwnFKkK\nO0i2a8ia90PwARwFqUwrHRuEFeBAJf+es5B9Tix48SDPR662yojEnCNs9oKS4tO2\n6Tqsa4+2wW68Gj895mXqDLO8SOds1zLB0e7dp+X9EuQXEMYfxemZpTtlhZAcRLQE\nrpnicCYDAgMBAAECggEAG2vKbXxYOylqAS0LJNfXhMGZR7RR6V9JDnrS0CEGFcEm\n8mxRDOi9jo4hwP27CSGqumY8d4BPB7t1JQ0ybdV8nLUobSHkhuInUBcgzGBbyBM5\nQp9cweNgMAAPBf8JIZ5SceZmcw+YEYu0JfBkZafv/1ZDif/YKPh/6d4FuNADUtL7\nEd+FKc1k12FnslRWNTZ+3/goHk+3ywwtslzcqnLUi9vRtKic0UyEDx00PoEN6V/V\nGHFli5xH/IVQS+rs9uiKtPQT7vyD+yC7oaNgbR3o63p7N+StfNMNzNrP9eAGbpRZ\nd1p1CzZiNHwOWXcwiCkLazhNP2qGd7pgiTOw5WdVAQKBgQDOjoQgh++j+v/uwqSU\nJcgqsePIYYF6zFRDAABYXmNSOAMCXsh5EhwdXPAwKM3NgqIZLJD2F2XIHFXM2p1N\nH/dM6P/cYnP1rD0vdbJ7gBYR+VfRG5fUdUsaA7DLiEejrnHyHuLS6iNOotlQxZHd\nwMqjsOQ5aJDoLzX1Cjbn7Gd4gwKBgQDD1nYod7iKPjsywi+Bt6a/S5eVvy/Yjv8j\nYJYfveZQ00Sf6ogVjIptukVskUCivwGx5w+Jsia1EAXYx18cvIohvFmEWvic+xHO\nEaa1E+0XbPotolACh/KBrU5n0PazZkaje26A9WYr6vRuHvjudpS6v/NZ04scm/tn\nieSGsh4kgQKBgF+TuHWpEO0KtqRPMoJOnTmMSL8uxxAAPjkmZgJ94m1n95SAMTk8\ndP/tQkK2jsw6VzFY2tbUasdWvSjmO4U1dmQDKGlcsRWLlmBAkM7urMeyXb0njHDF\nuXOXI5Z6P9PwY09KlWBM8PtxBSeH1AANNnbZ4jDiPrMBLXFuQYu9av9rAoGBALzC\nOaFHw9d7pBOIl8GwAkjf03vCi5twOPsgXZK6twOwnrSEmiYrEEIzCDdcybAT6s5O\np+tQi355syj/Ae3wzDM4GBA6nuawGLlGyig+zIeHwpu5luTZpCTZpnjqMN859Vwd\n3KTv40rxbCe4MremFDTsTuKFw9APiIKDpoEtrWABAoGBAKayopeqD3+9S6ZWSb7f\nAt7TexRJGqR9bs70KdMG1cH5WN/XssOwA2xqJC98aUeYWofjn2olJuIPg667QqJf\nqYh6l0U0cgOqgIDlZUleuxkOHoNOg9Mbf0cNZQH7iQVUY9o3xKOSD6VO20TekAGr\nNVW9PIksUiZw/B9jzI6UEOOj\n-----END PRIVATE KEY-----\n",
+  "client_email": "argraur@hybrid-poetry-281521.iam.gserviceaccount.com",
+  "client_id": "113699362440769537601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/argraur%40hybrid-poetry-281521.iam.gserviceaccount.com"
+}
